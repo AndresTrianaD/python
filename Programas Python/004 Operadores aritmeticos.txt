@@ -1,0 +1,7 @@
+Suma (+)
+Resta (-)
+Multiplicacion (*)
+Exponente (**)
+Modulo (%)
+Division(/)
+Division entera (//)
